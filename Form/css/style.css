@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url('../assets/images/background.jpg');
+    font-family: "Ubuntu", sans-serif;
+}
+.row{
+    margin-top: 15%;
+}

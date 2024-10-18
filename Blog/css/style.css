@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url('../assets/images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Ubuntu", sans-serif;
+}
+.container{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.card{
+    margin-left: 15%;
+    border: 5px solid greenyellow;
+}

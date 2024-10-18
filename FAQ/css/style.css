@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url('../assets/images/background.jpg');
+    font-family: "Ubuntu", sans-serif;
+}
+.accordion{
+    padding-top: 22%;
+}
