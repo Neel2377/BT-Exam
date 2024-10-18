@@ -4,9 +4,11 @@
     box-sizing: border-box;
 }
 body{
+    background: url('../assets/images/background.jpg');
     font-family: "Ubuntu", sans-serif;
 }
 .offcanvas-header img{
-    margin-left: 18%;
+    width: 100px;
+    margin-left: 35%;
     border-radius: 50%;
 }
